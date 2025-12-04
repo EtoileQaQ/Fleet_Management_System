@@ -43,7 +43,7 @@ A modern fleet management system built with FastAPI, PostgreSQL (PostGIS), Redis
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/EtoileQaQ/Fleet_Management_System
 cd fleet-management
 
 # Start all services
